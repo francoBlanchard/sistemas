@@ -16,4 +16,5 @@ begin
 		write('elementos de b: ');
 		for e in b do 
 		write(e, '; ');
+		
 end,
